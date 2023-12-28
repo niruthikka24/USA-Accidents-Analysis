@@ -8,4 +8,14 @@ It's a public dataset that's available [here](https://smoosavi.org/datasets/us_a
 
 # Dashboard Images
 Finally, the derived insights were presented in a Power BI dashboard. Some images of the dashboard are as follows. 
+
+
 ![Region-wise Accident Distribution](images/img1.PNG)
+
+![City-wise Accident Distribution](images/img2.PNG)
+
+![State-wise Accident Distribution](images/img3.PNG)
+
+![Time-wise Accident Distribution](images/img4.PNG)
+
+![Infrastructure-wise Accident Distribution](images/img5.PNG)
